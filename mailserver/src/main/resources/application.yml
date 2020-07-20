@@ -1,0 +1,25 @@
+server:
+  port: 8082
+
+spring:
+  mail:
+    host: smtp.qq.com
+    port: 587
+    username: 123456@qq.com
+    password: kkkkk
+    default-encoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          socketFactory:
+            class: javax.net.ssl.SSLSocketFactory
+        debug: true
+
+  # RabbitMQ
+  rabbitmq:
+    port: 5672
+    username: admin
+    password: admin
+    host: 127.0.0.1
+
+

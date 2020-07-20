@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: xxxxxx
+    url: jdbc:mysql:///vhr?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+
+  # RabbitMQ
+  rabbitmq:
+    port: 5672
+    username: admin
+    password: admin
+    host: 127.0.0.1
+
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml

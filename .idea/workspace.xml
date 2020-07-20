@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f210646-8241-4748-b3a7-3b93743a4913" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1eGgjgSOrFhjyG49pP7qVvv6jtz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-web\src\main\resources\static" />
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-web\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-web\src\main\resources" />
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-web\src\main\resources\static" />
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-web\src\main\resources\static\js" />
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-service\src\main\java\org\newbie\vhr" />
+      <recent name="D:\JavaWeb\java项目\vhr\vhrserver\vhr-mapper\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/doLogin" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;admin&quot;, &quot;password&quot;: 123}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/doLogin" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;root&quot;, &quot;password&quot;: &quot;123&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/doLogin" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;admin&quot;, &quot;password&quot;: &quot;123&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/doLogin" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;admin&quot;, &quot;password&quot;: 123456}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Mailserver">
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Mailserver" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mailserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.newbie.mailserver.MailserverApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vhr-web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vhr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.newbie.vhr.VhrApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests#1" />
+      <item itemvalue="Spring Boot.Mailserver" />
+      <item itemvalue="Spring Boot.vhr-web" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f210646-8241-4748-b3a7-3b93743a4913" name="Default Changelist" comment="" />
+      <created>1593953479445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593953479445</updated>
+      <workItem from="1593953480744" duration="2869000" />
+      <workItem from="1593958726358" duration="1449000" />
+      <workItem from="1594018308032" duration="6662000" />
+      <workItem from="1594045753985" duration="1950000" />
+      <workItem from="1594094306811" duration="19024000" />
+      <workItem from="1594176085700" duration="8754000" />
+      <workItem from="1594269982969" duration="225000" />
+      <workItem from="1594270359442" duration="6088000" />
+      <workItem from="1595045854139" duration="17128000" />
+      <workItem from="1595218390247" duration="2703000" />
+      <workItem from="1595222256359" duration="118000" />
+      <workItem from="1595222393307" duration="595000" />
+    </task>
+    <task id="LOCAL-00001" summary="微人事项目">
+      <created>1595218759266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595218759266</updated>
+    </task>
+    <task id="LOCAL-00002" summary="前后端分离微人事项目">
+      <created>1595221625796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595221625796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="微人事项目" />
+    <MESSAGE value="前后端分离微人事项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="前后端分离微人事项目" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1594187552708">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594187552708" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595222473682">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594047543110" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1595222473682" />
+    <state x="574" y="32" width="501" height="802" key="#com.intellij.ide.util.MemberChooser" timestamp="1595066882578">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="32" width="501" height="802" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595066882578" />
+    <state x="451" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594020987143">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="451" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594020987143" />
+    <state x="278" y="0" key="CommitChangelistDialog2" timestamp="1595221621465">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="278" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1595221621465" />
+    <state x="547" y="188" key="FileChooserDialogImpl" timestamp="1595222218919">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="547" y="188" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1593953507103" />
+    <state x="547" y="188" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1595222218919" />
+    <state x="579" y="318" key="Github.CreateGistDialog" timestamp="1595222355504">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="579" y="318" key="Github.CreateGistDialog/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594126099608" />
+    <state x="579" y="318" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1595222355504" />
+    <state width="1493" height="483" key="GridCell.Tab.0.bottom" timestamp="1595222229529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="535" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067555903" />
+    <state width="1493" height="483" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595222229529" />
+    <state width="1493" height="483" key="GridCell.Tab.0.center" timestamp="1595222229529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="535" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067555902" />
+    <state width="1493" height="483" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595222229529" />
+    <state width="1493" height="483" key="GridCell.Tab.0.left" timestamp="1595222229529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="535" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067555902" />
+    <state width="1493" height="483" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595222229529" />
+    <state width="1493" height="483" key="GridCell.Tab.0.right" timestamp="1595222229529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="535" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067555902" />
+    <state width="1493" height="483" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595222229529" />
+    <state width="1493" height="431" key="GridCell.Tab.1.bottom" timestamp="1595067433844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.1.bottom/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067433844" />
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595046545659" />
+    <state width="1493" height="431" key="GridCell.Tab.1.center" timestamp="1595067433844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.1.center/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067433844" />
+    <state width="1493" height="319" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1595046545659" />
+    <state width="1493" height="431" key="GridCell.Tab.1.left" timestamp="1595067433844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.1.left/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067433844" />
+    <state width="1493" height="319" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1595046545659" />
+    <state width="1493" height="431" key="GridCell.Tab.1.right" timestamp="1595067433844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.1.right/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595067433844" />
+    <state width="1493" height="319" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1595046545659" />
+    <state x="546" y="136" key="RollbackChangesDialog" timestamp="1595221568309">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="546" y="136" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1595221568309" />
+    <state x="287" y="88" key="SettingsEditor" timestamp="1595222428334">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="287" y="88" key="SettingsEditor/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594270910106" />
+    <state x="287" y="88" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595222428334" />
+    <state x="335" y="98" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1594176099572" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1595222017670">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595222017670" />
+    <state x="494" y="204" key="git4idea.merge.GitPullDialog" timestamp="1595221995717">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="494" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1595221995717" />
+    <state x="570" y="323" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595222010212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="570" y="323" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1595222010212" />
+    <state x="322" y="54" key="new project wizard" timestamp="1594021086644">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="322" y="54" key="new project wizard/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594021086644" />
+    <state x="178" y="77" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1593963496051" />
+    <state x="545" y="173" key="refactoring.ChangeSignatureDialog" timestamp="1595057466632">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="545" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1595057466632" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1594274725023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1594274725023" />
+  </component>
+</project>
